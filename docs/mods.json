@@ -1,12 +1,17 @@
 {
-	"curseforge": [],
+	"curseforge": [
+		{
+			"projectID": 250498,
+			"fileID": 3048685
+		}
+	],
 
 	"mods":[
 		{
 			"name": "OptiFine",
 			"downloadURL": "https://zuhowks.github.io/mods/OptiFine.jar",
 			"sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
-			"size": "2 669 107"
+			"size": 2669107
 		}
 	]
 }
