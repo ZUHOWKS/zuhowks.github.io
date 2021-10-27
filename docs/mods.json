@@ -8,7 +8,7 @@
 
 	"mods":[
 		{
-			"name": "OptiFine",
+			"name": "OptiFine.jar",
 			"downloadURL": "https://zuhowks.github.io/mods/OptiFine.jar",
 			"sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
 			"size": 2669107
