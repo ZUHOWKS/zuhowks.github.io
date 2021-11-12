@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patch id="Mise à jour 1.0.1">
+    <categories id="Nouveauté:">
+        <note>Nouvelle armure légendaire: Gladiator | Disponible dans la boutique !</note>
+        <note>Ajout de nouvelles dynamites en Andanozium, Titanium, Asilux et Tungsten.</note>
+        <note>Ajout des anneaux de combat.</note>
+    </categories>
+    <categories id="Réquilibrage de la semaine:">
+        <note>Amélioration de l'armure en Tungsten | Bottes: (+1); Jambière: (+2)</note>
+        <note>Diminution de l'armure en Tungsten | Plastron: (-2); </note>
+        <note>Augmentation de la vitesse d'attaque du catana en Enderium | Vitesse: 0.3 (+0.1)</note>
+    </categories>
+</patch>
