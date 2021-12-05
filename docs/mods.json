@@ -13,5 +13,11 @@
 			"sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
 			"size": 2669107
 		}
+		{
+			"name": "asiluxmod-0.2.3.jar",
+			"downloadURL": "https://zuhowks.github.io/mods/asiluxmod-0.2.3",
+			"sha1": "55fda86088500796404623175b15a0c485aa3944",
+			"size": 1082045
+		}
 	]
 }

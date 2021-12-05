@@ -1,0 +1,1 @@
+certutil -hashfile filename.jar SHA1
