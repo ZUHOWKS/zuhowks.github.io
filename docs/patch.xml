@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <patch id="Mise à jour 1.0.1">
+    <version id="1.0.1">
+        <note>Version du ALauncher</note>
+    </version>
     <categories id="Nouveauté">
         <note>Nouvelle armure légendaire: Gladiator | Disponible dans la boutique !</note>
         <note>Ajout de nouvelles dynamites en Andanozium, Titanium, Asilux et Tungsten.</note>
