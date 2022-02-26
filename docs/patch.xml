@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<patch id="Mise à jour 1.0.1">
-    <version id="1.0.1">
+<patch id="Mise à jour 1.1.1">
+    <version id="1.1.1">
         <note>Version du ALauncher</note>
     </version>
     <categories id="Nouveauté">
-        <note>Nouvelle armure légendaire: Gladiator | Disponible dans la boutique !</note>
-        <note>Ajout de nouvelles dynamites en Andanozium, Titanium, Asilux et Tungsten.</note>
-        <note>Ajout des anneaux de combat.</note>
+        <note>Ajout de la Tinker Crafting Table.</note>
+        <note>Ajout des armures en Andanozium, Titanium et Enderium</note>
+        <note>Ajout des outils en Andanozium, Titanium, Asilux, Enderium et Tungsten.</note>
+        <note>Ajout d'effets sur l'armure renfrocé en fer:\n    
+        	• Résistance 1, Speed 1 lorsque l'ensemble de l'armure est équipé.</note>
+        <note>Ajout d'effets sur l'armure renfrocé en or:\n    
+        	• Haste 2, Saturation 2 lorsque l'ensemble de l'armure est équipé.</note>
+        <note>Ajout d'effets sur l'armure renfrocé en diamant:\n    
+        	• Résistance 2 and Fire Resistance 1 lorsque l'ensemble de l'armure est équipé.</note>
+        <note>Ajout d'effets sur l'armure reforgé:\n    
+        	• Résistance 2 active lorsque le plastron et les bottes sont équipés.\n    
+        	• Résistance au feu 1 active lorsque le casque et les jambières sont équipés.</note>
+        <note>Ajout d'effets sur l'armure en Enderium:\n    
+        	• Résistance 2 active lorsque le plastron et les bottes sont équipés.\n    
+        	• Capacité à être téléporté derrière l'assaillant lorsqu'il attaque.</note>
+        <note>Ajout d'effets sur l'armure en Tungsten:\n    
+        	• Force 1 lorsque l'on posséde un sabre en main si non Force 2, active lorsque le\n      
+        	plastron et les bottes sont équipés.\n        
+        	• Absortion 4 active lorsque le casque et les jambières sont équipés.</note>
     </categories>
-    <categories id="Réquilibrage de la semaine">
-        <note>Amélioration de l'armure en Tungsten | Bottes: (+1); Jambière: (+2)</note>
-        <note>Diminution de l'armure en Tungsten | Plastron: (-2); </note>
-        <note>Augmentation de la vitesse d'attaque du catana en Enderium | Vitesse: 0.3 (+0.1)</note>
+    <categories id="Réquilibrage">
+        <note>Modification de la vitesse d'attaque des sabres | Vitesse d'attaque: 3.71.</note>
+        <note>Modification de la vitesse d'attaque des War Hammer | Vitesse d'attaque: 0.8.</note>
     </categories>
+    	<ignored>Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
 </patch>
