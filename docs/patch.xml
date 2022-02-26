@@ -7,21 +7,21 @@
         <note>Ajout de la Tinker Crafting Table.</note>
         <note>Ajout des armures en Andanozium, Titanium et Enderium</note>
         <note>Ajout des outils en Andanozium, Titanium, Asilux, Enderium et Tungsten.</note>
-        <note>Ajout d'effets sur l'armure renfrocé en fer:\n    
+        <note>Ajout d'effets sur l'armure renfrocé en fer:    
         	• Résistance 1, Speed 1 lorsque l'ensemble de l'armure est équipé.</note>
-        <note>Ajout d'effets sur l'armure renfrocé en or:\n    
+        <note>Ajout d'effets sur l'armure renfrocé en or:    
         	• Haste 2, Saturation 2 lorsque l'ensemble de l'armure est équipé.</note>
-        <note>Ajout d'effets sur l'armure renfrocé en diamant:\n    
+        <note>Ajout d'effets sur l'armure renfrocé en diamant:    
         	• Résistance 2 and Fire Resistance 1 lorsque l'ensemble de l'armure est équipé.</note>
-        <note>Ajout d'effets sur l'armure reforgé:\n    
+        <note>Ajout d'effets sur l'armure reforgé:    
         	• Résistance 2 active lorsque le plastron et les bottes sont équipés.\n    
         	• Résistance au feu 1 active lorsque le casque et les jambières sont équipés.</note>
         <note>Ajout d'effets sur l'armure en Enderium:\n    
         	• Résistance 2 active lorsque le plastron et les bottes sont équipés.\n    
         	• Capacité à être téléporté derrière l'assaillant lorsqu'il attaque.</note>
         <note>Ajout d'effets sur l'armure en Tungsten:\n    
-        	• Force 1 lorsque l'on posséde un sabre en main si non Force 2, active lorsque le\n      
-        	plastron et les bottes sont équipés.\n        
+        	• Force 1 lorsque l'on posséde un sabre en main si non Force 2, active lorsque      
+        	le plastron et les bottes sont équipés.\n        
         	• Absortion 4 active lorsque le casque et les jambières sont équipés.</note>
     </categories>
     <categories id="Réquilibrage">
