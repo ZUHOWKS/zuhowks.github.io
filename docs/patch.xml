@@ -26,7 +26,7 @@
             lorsque le plastron et les bottes sont équipés.
           - Absortion 4 active lorsque le casque et les jambières sont équipés.</note>
     </categories>
-    <categories id="Réquilibrage">
+    <categories id="Rééquilibrage">
         <note>Modification de la vitesse d'attaque des sabres | Vitesse d'attaque: 3.71.</note>
         <note>Modification de la vitesse d'attaque des War Hammer | Vitesse d'attaque: 0.8.</note>
     </categories>
@@ -34,5 +34,5 @@
         <note>Bug Fix: Page des mises à jours qui avait un problème de forme.</note>
         <note>Changement du fichier de destination du launcher.</note>
     </categories>
-    <ignored >Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
+    <ignored> Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
 </patch>
