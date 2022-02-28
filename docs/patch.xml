@@ -34,5 +34,5 @@
         <note>Bug Fix: Page des mises à jours qui avait un problème de forme.</note>
         <note>Changement du fichier de destination du launcher.</note>
     </categories>
-    <ignored> Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
+    <ignored >Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
 </patch>
