@@ -30,7 +30,7 @@
         <note>Modification de la vitesse d'attaque des sabres | Vitesse d'attaque: 3.71.</note>
         <note>Modification de la vitesse d'attaque des War Hammer | Vitesse d'attaque: 0.8.</note>
     </categories>
-    <categories id="Bug & Fix">
+    <categories id="Bug ＆ Fix">
         <note>Bug avec l'armure reforcé en diamant et en or qui ne donnez pas le bonne effet.</note>
         <note>Fix vitesse d'attaque de la mace qui était trop lente.</note>
     </categories>
