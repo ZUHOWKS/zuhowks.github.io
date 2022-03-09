@@ -7,11 +7,11 @@
         <note>Ajout de la Tinker Crafting Table.</note>
         <note>Ajout des armures en Andanozium, Titanium et Enderium</note>
         <note>Ajout des outils en Andanozium, Titanium, Asilux, Enderium et Tungsten.</note>
-        <note>Ajout d'effets sur l'armure renfrocé en fer:
+        <note>Ajout d'effets sur l'armure renforcé en fer:
           - Résistance 1, Speed 1 lorsque l'ensemble de l'armure est équipé.</note>
-        <note>Ajout d'effets sur l'armure renfrocé en or:
+        <note>Ajout d'effets sur l'armure renforcé en or:
           - Haste 2, Saturation 2 lorsque l'ensemble de l'armure est équipé.</note>
-        <note>Ajout d'effets sur l'armure renfrocé en diamant:
+        <note>Ajout d'effets sur l'armure renforcé en diamant:
           - Résistance 2 and Fire Resistance 1 lorsque l'ensemble de l'armure est 
             équipé.</note>
         <note>Ajout d'effets sur l'armure reforgé:
@@ -29,6 +29,10 @@
     <categories id="Rééquilibrage">
         <note>Modification de la vitesse d'attaque des sabres | Vitesse d'attaque: 3.71.</note>
         <note>Modification de la vitesse d'attaque des War Hammer | Vitesse d'attaque: 0.8.</note>
+    </categories>
+    <categories id="Bug & Fix">
+        <note>Bug avec l'armure reforcé en diamant et en or qui ne donnez pas le bonne effet.</note>
+        <note>Fix vitesse d'attaque de la mace qui était trop lente.</note>
     </categories>
     <categories id = "Launcher">
         <note>Bug Fix: Page des mises à jours qui avait un problème de forme.</note>
