@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <patch id="Asilux Mods UPDATE">
+    <ignored>==============================================================================</ignored>
+
     <version id="1.1.4-b">
         <note>Version du ALauncher</note>
     </version>
+
+    <ignored>==============================================================================</ignored>
+
     <categories id="Nouveauté">
         <note>Ajout de la Tinker Crafting Table.</note>
         <note>Ajout des armures en Andanozium, Titanium et Enderium</note>
@@ -26,19 +31,24 @@
             lorsque le plastron et les bottes sont équipés.
           - Absortion 4 active lorsque le casque et les jambières sont équipés.</note>
     </categories>
+
     <categories id="Rééquilibrage">
         <note>Modification de la vitesse d'attaque des sabres | Vitesse d'attaque: 3.71.</note>
         <note>Modification de la vitesse d'attaque des War Hammer | Vitesse d'attaque: 0.8.</note>
         <note>Génération des minerais selon leur rareté plus équilibré.</note>
     </categories>
+
     <categories id="Bug et Fix">
-        <note>Bug avec l'armure reforcé en diamant et en or qui ne donnez pas le bonne effet.</note>
-        <note>Fix vitesse d'attaque de la mace qui était trop lente.</note>
+        <note>Bug avec l'armure reforcé en diamant et en or ne donnant pas le bon effet.</note>
+        <note>Fix vitesse d'attaque de la mace trop lente.</note>
         <note>Fix de l'absence de génération des minerai de Tungsten, d'Asilux et d'Enderium.</note>
     </categories>
+
     <categories id = "Launcher">
-        <note>Bug Fix: Page des mises à jours qui avait un problème de forme.</note>
+        <note>Bug Fix: Page des mises à jours qui avait un problème de mise en forme.</note>
         <note>Changement du fichier de destination du launcher.</note>
     </categories>
+
     <ignored> Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
+    <ignored>==============================================================================</ignored>
 </patch>
