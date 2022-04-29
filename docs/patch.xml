@@ -2,7 +2,7 @@
 <patch id="Asilux Mods UPDATE">
     <ignored>==============================================================================</ignored>
 
-    <version id="1.1.4-b">
+    <version id="1.1.5-b">
         <note>Version du ALauncher</note>
     </version>
 
@@ -45,8 +45,9 @@
     </categories>
 
     <categories id = "Launcher">
-        <note>Bug Fix: Page des mises à jours qui avait un problème de mise en forme.</note>
-        <note>Changement du fichier de destination du launcher.</note>
+        <note>!New!: Connexion sur un compte microsoft via l'interface web de microsoft.</note>
+        <note>!New!: Connexion à un compte crack  possible (il faut obligatoirement rentrer 
+                     un mot de passe).</note>
     </categories>
 
     <ignored> Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
