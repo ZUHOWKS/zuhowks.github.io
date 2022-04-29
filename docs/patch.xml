@@ -47,7 +47,7 @@
     <categories id = "Launcher">
         <note>!New!: Connexion sur un compte microsoft via l'interface web de microsoft.</note>
         <note>!New!: Connexion à un compte crack  possible (il faut obligatoirement rentrer 
-                 un mot de passe).</note>
+          un mot de passe).</note>
     </categories>
 
     <ignored> Ceci est la limite de caractère: tu dois faire \n pour reveneir à la ligne...</ignored>
