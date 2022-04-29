@@ -42,6 +42,7 @@
         <note>Bug avec l'armure reforcé en diamant et en or ne donnant pas le bon effet.</note>
         <note>Fix vitesse d'attaque de la mace trop lente.</note>
         <note>Fix de l'absence de génération des minerai de Tungsten, d'Asilux et d'Enderium.</note>
+        <note>Fix de l'animation des jambes sur l'armure Samuraï Red.</note>
     </categories>
 
     <categories id = "Launcher">
