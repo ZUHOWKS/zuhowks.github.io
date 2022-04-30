@@ -14,6 +14,12 @@
 			"size": 2669107
 		},
 		{
+			"name": "JEI.jar",
+			"downloadURL": "https://zuhowks.github.io/mods/JEI.jar",
+			"sha1": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8",
+			"size": 653210
+		},
+		{
 			"name": "Asilux-Better-Weaponry.jar",
 			"downloadURL": "https://zuhowks.github.io/mods/Asilux-Better-Weaponry-1.12-1.0.4.jar",
 			"sha1": "3d89045b8f6644c675c87a68f8ded2353c0159b0",
