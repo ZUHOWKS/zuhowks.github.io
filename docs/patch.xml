@@ -18,7 +18,8 @@
     </categories>
 
     <categories id="Bug et Fix">
-        <note>Fix de l'animation des jambes sur l'armure Samuraï Red.</note>
+        <note>Fix armure en Enderium rendant le joueur invincible en pvp + crash serveur 
+            lorsqu'une entité attaque le joueur qui en est équipé.</note>
     </categories>
 
     <categories id = "Launcher">
